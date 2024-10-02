@@ -1,6 +1,5 @@
 #   Transformer model from `"Attention Is All You Need" (Vaswani, et al, 2017) <https://arxiv.org/abs/1706.03762>`.
-#   This is a basic version intended for demonstration ONLY as part of INFR11157 course (NLU+).
-#   Tom Sherborne, University of Edinburgh, January 2020
+#   This project was part of the University of Edinburgh's Master's course NLU+.
 import math
 import torch
 import torch.nn as nn
