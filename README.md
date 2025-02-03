@@ -5,6 +5,7 @@ Includes LSTM, encoder-decoder with attention, and Transformer model architectur
 
 
 File description:
+
 • train.py* is used to train the translation models.
 
 • translate.py* translates the test-set greedily using model parameters restored from the best checkpoint file and saves the output to model translations.txt.
